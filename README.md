@@ -31,7 +31,7 @@ Java 1.8
 
 ### Installation:
 ---
-Put the code on Apache web server deploy the code base, add MYSQL backup file, set port for MYSQL as 3306 and use Gradle as build-automation-system.In spring starter project add all 5 java classes named InnovacerBean.java, Login3FrontendApplicaton.java, RequestInfo.java,ServletInitializer.java, WebController.java.Change the application.properties file as given in repository. In src-> main-> make a new folder webapp, inside which make a folder named as WEB-INF inside which make folder jsp and place request.jsp in jsp folder.Add these 2 jar files explicity to the project given in repository
+Put the code on Apache web server deploy the code base, add MYSQL backup file, set port for MYSQL as 3306 and use Gradle as build-automation-system.In spring starter project add all 5 java classes named InnovacerBean.java, Login3FrontendApplicaton.java, RequestInfo.java,ServletInitializer.java, WebController.java.Change the application.properties file as given in repository. In src-> main-> make a new folder webapp, inside which make a folder named as WEB-INF inside which make folder jsp and place request.jsp in jsp folder. Add these 2 jar files explicity to the project given in repository.
 
 ### Instructions to run the code
 ---
